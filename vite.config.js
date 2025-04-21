@@ -7,6 +7,6 @@ export default defineConfig({
   server: {
     host: '0.0.0.0',
     port: 3000,
-    allowedHosts: ['cryptide.onrender.com'], // 👈 Add your Render domain here
+    allowedHosts: ['cryptidee.onrender.com'], // 👈 Add your Render domain here
   }
 })
