@@ -2,8 +2,6 @@
 
 Cryptide, is a web-based tool built using Flask and React.js to predict cryptocurrency market trends. It uses the CoinGecko API to fetch price data and Linear Regression to forecast market sentiment for the next 7 days. Designed for traders, this user-friendly system helps make smart investment decisions by analyzing historical price patterns, offering real-time insights, and simplifying the complexities of the crypto market.
 
-Website link : [https://cryptidee.onrender.com](url)
-
 **Landing Page**
 ![Screenshot 2025-04-24 160235](https://github.com/user-attachments/assets/c3f182da-0a29-4b2a-b364-32484269ba9e)
 
